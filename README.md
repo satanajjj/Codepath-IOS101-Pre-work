@@ -17,9 +17,7 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/gRTX5pYWkrw?si=KQFqgechQ7z95Vam&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## App Brainstorming (Step 4)
 
@@ -66,7 +64,7 @@ This project was a great introduction to iOS app development with Swift. Key cha
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2025] [Estefan Rebolledo]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
