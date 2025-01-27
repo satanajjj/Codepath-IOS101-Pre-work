@@ -4,7 +4,7 @@
 
 Submitted by: **Estefan Rebolledo**
 
-Prework is the necessary work to apply for the IOS101
+Prework is the necessary tasks to apply for the IOS101 course
 
 Time spent: 2 hours spent in total
 
