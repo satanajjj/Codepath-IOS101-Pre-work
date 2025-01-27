@@ -19,9 +19,10 @@ The following **required** functionality is completed:
 
 https://www.youtube.com/watch?v=gRTX5pYWkrw
 
-## App Brainstorming (Step 4)
+## App Brainstorming
 
 Favorite Apps and Features
+
 Duolingo
 
 Gamified learning system (points, streaks, and leaderboards).
@@ -32,6 +33,7 @@ Spotify
 Personalized playlists (e.g., Discover Weekly).
 Cross-device playback sync.
 Collaborative playlists for social experiences.
+
 Notion
 
 Flexible templates for different workflows.
@@ -42,17 +44,20 @@ Google Maps
 Real-time traffic and transit updates.
 Saved locations and personalized recommendations.
 Offline map functionality.
+
 Instagram
 
 Easy-to-use editing tools for photos/videos.
 Stories feature for quick, ephemeral sharing.
 Algorithm-driven feed tailored to personal interests.
+
+
 App Idea: "Culinary Passport"
+
 Description:
 Culinary Passport is a mobile app that introduces users to recipes and cuisines from around the world, helping them explore diverse food cultures. The app would offer curated recipes with step-by-step instructions, substitution suggestions for hard-to-find ingredients, and the ability to customize recipes for dietary preferences (e.g., vegan, gluten-free). Features include AR-guided cooking steps, where users can view ingredient placements and techniques using their device’s camera, and a social element where users can share their cooking results and connect with others exploring the same cuisine.
 
 Features to Implement:
-
 Step-by-step recipe instructions with photos and AR overlays.
 Ingredient substitution recommendations based on user dietary preferences.
 Social sharing and community feedback for user-uploaded recipe photos.
@@ -64,7 +69,7 @@ This project was a great introduction to iOS app development with Swift. Key cha
 
 ## License
 
-    Copyright [2025] [Estefan Rebolledo]
+    Copyright 2025
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
